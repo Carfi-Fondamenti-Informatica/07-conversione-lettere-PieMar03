@@ -1,1 +1,1 @@
-
+bool car (char &a);
